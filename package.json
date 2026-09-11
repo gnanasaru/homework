@@ -1,0 +1,24 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gnanasaru/homework#readme",
+  "bugs": {
+    "url": "https://github.com/gnanasaru/homework/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnanasaru/homework.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
